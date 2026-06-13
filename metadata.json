@@ -1,0 +1,6 @@
+{
+  "name": "🎲.BAC-BOT VIP.🎲",
+  "description": "App de sinais automatizado para os jogos Bacbo e Futebol Studio com análise em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
